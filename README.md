@@ -1,9 +1,22 @@
 # CapibaraZero
 
-CapibaraZero aim to be a cheap alternative to FlipperZero™. It's based on ESP32 boards especially on ESP32-S3 but we hope to port firmware to all ESP boards.
+<img src="logo.png" width="256" />
+
+CapibaraZero aim to be a cheap alternative to FlipperZero™. It's based on ESP32 boards especially on ESP32-S3 but we want to port firmware to all ESP family boards.
 
 ## Status
 
-The project is WIP, you can check further update [here](https://github.com/orgs/CapibaraZero/projects/2)
+The project is BETA! 🎉
 
-At the moment every attack code is ready and we're finishing GUI
+Working Features:
+
+- Wi-Fi support
+- BLE support
+- BadUSB support
+- NFC support(Expect bugs)
+- Some network attacks
+
+WIP features:
+
+- SubGHZ
+- IR
