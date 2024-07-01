@@ -1,6 +1,6 @@
 # CapibaraZero
 
-<img src="logo.png" width="256" />
+<img src="../logo.png" width="256" />
 
 CapibaraZero aim to be a cheap alternative to FlipperZero™. It's based on ESP32 boards especially on ESP32-S3 but we want to port firmware to all ESP family boards.
 
