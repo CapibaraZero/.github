@@ -13,10 +13,10 @@ Working Features:
 - Wi-Fi support
 - BLE support
 - BadUSB support
-- NFC support(Expect bugs)
+- NFC support
 - Some network attacks
-
+- SubGHZ(Still in beta status)
+  
 WIP features:
 
-- SubGHZ
 - IR
