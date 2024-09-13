@@ -16,7 +16,4 @@ Working Features:
 - NFC support
 - Some network attacks
 - SubGHZ(Still in beta status)
-  
-WIP features:
-
 - IR
