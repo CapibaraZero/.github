@@ -17,3 +17,9 @@ Working Features:
 - Some network attacks
 - SubGHZ(Still in beta status)
 - IR
+
+## Social
+
+- [Matrix server](https://matrix.to/#/#capibarazero:capibarazero.com)
+- [Discord-Matrix bridge](https://discord.gg/4uvMS843)
+- [Docs](https://capibarazero.com)
